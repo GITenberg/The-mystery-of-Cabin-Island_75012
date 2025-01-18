@@ -1,0 +1,30 @@
+_repo: The-mystery-of-Cabin-Island_75012
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dixon, Franklin W.
+    gutenberg_agent_id: '55530'
+    url: http://www.gutenberg.org/2009/agents/55530
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Franklin_W._Dixon
+    - https://www.gutenberg.org/ebooks/author/1626
+description: ''
+gutenberg_issued: '2025-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75012'
+language: en
+pgterms:marc905: 20241222162343dixon
+pgterms:marc906: '1929'
+pgterms:marc907: US
+production_note: Al Haines, Cindy Beyer & the online Distributed Proofreaders Canada
+  team at https://www.pgdpcanada.net. This file was produced from images generously
+  made available by Internet Archive/American Libraries.
+publication_note: '  $aNew York :$bGrosset & Dunlap, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The mystery of Cabin Island
+url: http://www.gutenberg.org/ebooks/75012
