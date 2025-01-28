@@ -1,5 +1,8 @@
 _repo: The-mystery-of-Cabin-Island_75012
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75012-h/images/cover.jpg
 creator:
   author:
     agent_name: Dixon, Franklin W.
@@ -9,6 +12,8 @@ creator:
     - https://en.wikipedia.org/wiki/Franklin_W._Dixon
     - https://www.gutenberg.org/ebooks/author/1626
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75012#The-mystery-of-Cabin-Island
 gutenberg_issued: '2025-01-01'
 gutenberg_type: Text
 identifiers:
